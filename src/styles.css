@@ -1,0 +1,4 @@
+body, html, #root, .app { height: 100%; margin: 0; }
+.app { width: 100vw; height: 100vh; overflow: hidden; position: relative; }
+.ui { position: absolute; left: 12px; top: 12px; color: white; text-shadow: 0 1px 3px rgba(0,0,0,0.7); }
+canvas { display: block; }
